@@ -1,3 +1,4 @@
+![Preview of Workflow](Screenshot 2025-08-20 034217.png)
 # LinkedIn Post Generator (n8n Automation)
 
 ## 📌 Overview
